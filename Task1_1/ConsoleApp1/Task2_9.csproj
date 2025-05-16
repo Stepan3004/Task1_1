@@ -7,9 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Remove="Program.cs.url" />
-    <None Remove="Task1_1.csproj.url" />
-  </ItemGroup>
-
 </Project>
