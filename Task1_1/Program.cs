@@ -1,4 +1,4 @@
-﻿nam﻿using System;
+﻿using System;
 
 namespace Task1_1
 {
@@ -16,5 +16,4 @@ namespace Task1_1
             Console.WriteLine("a={0}, b={1} c= {2}", a, b, c);
         }
     }
-}
 }
