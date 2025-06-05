@@ -39,7 +39,7 @@
                         if (num2 != 0)
                             Console.WriteLine($"Частное чисел: {num1 / num2}");
                         else
-                            throw new DivideByZeroException(); // Исключение при делении на ноль
+                            throw new DivideByZeroException(); 
                         break;
 
                     default:
